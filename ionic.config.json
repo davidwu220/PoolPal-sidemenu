@@ -1,0 +1,8 @@
+{
+  "name": "Poolpal-sidemenu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "fedb248c"
+}
